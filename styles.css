@@ -110,7 +110,7 @@ body {
 .card .creator {
     display: flex;
     align-items: center;
-    font-weight: 300px;
+    font-weight: 300;
 }
 
 
